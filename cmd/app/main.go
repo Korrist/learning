@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "github.com/Korrist/learning/internal/app"
 
 func main() {
-	fmt.Println("learning go")
+	app.Run()
 }
