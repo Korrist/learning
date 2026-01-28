@@ -9,3 +9,9 @@
 
 # OS
 .DS_Store
+
+# brunoyham py gitignore
+.env
+__pycache__/
+.idea/
+*.pyc
